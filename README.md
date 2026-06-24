@@ -1,16 +1,29 @@
-## Hi there 👋
+# Russ Munisteri, CISSP
 
-<!--
-**UrCybersecurity/UrCybersecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cyber-Awareness & Education Specialist | IT Certification Instructor | Founder, UrCybersecurity
 
-Here are some ideas to get you started:
+I teach IT certification courses and help small and mid-size businesses build stronger security awareness. Based in the Raleigh-Durham, NC area.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Work
+
+**AI-901 Student Resource Site**
+Comprehensive study site for the Microsoft AI-901 certification exam, including an 18-section study guide, quick reference card, lab catalog, and interactive practice challenges.
+https://ai-901.vercel.app
+
+**LogicOn 2026 Workshop Labs**
+Interactive HTML challenge labs built for a 3-hour conference workshop on AI for IT administrators and helpdesk leads.
+https://logicon-2026-labs.vercel.app
+
+**UrCybersecurity**
+Security awareness training and phishing simulation services for small and mid-size businesses.
+https://urcybersecurity.com
+
+## Certifications
+
+- CISSP
+- CompTIA SecurityX
+- CCSK
+
+## Contact
+
+Website: https://urcybersecurity.com
