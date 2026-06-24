@@ -20,6 +20,28 @@ Serving small and mid-size businesses, schools, and senior communities across th
 
 ---
 
+## What Happens When the Wrong Person Gets the Email
+
+```mermaid
+flowchart TD
+    A[Phishing email arrives] --> B[No training]
+    A --> C[Trained team]
+    B --> D[Clicks the link]
+    C --> E[Reports it]
+    D --> F[Breach occurs]
+    E --> G[Threat stopped]
+
+    style A fill:#F1EFE8,stroke:#5F5E5A,color:#2C2C2A
+    style B fill:#FCEBEB,stroke:#A32D2D,color:#501313
+    style D fill:#FCEBEB,stroke:#A32D2D,color:#501313
+    style F fill:#F09595,stroke:#791F1F,color:#501313
+    style C fill:#E6F1FB,stroke:#185FA5,color:#042C53
+    style E fill:#E6F1FB,stroke:#185FA5,color:#042C53
+    style G fill:#85B7EB,stroke:#0C447C,color:#042C53
+```
+
+---
+
 ## Could You Spot It?
 
 Click each one to test yourself.
