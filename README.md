@@ -6,9 +6,9 @@
 
 **Russ Munisteri, CISSP** · Cyber-Awareness & Education Specialist
 
-[![Website](https://img.shields.io/badge/Website-urcybersecurity.com-1A56DB?style=for-the-badge)](https://urcybersecurity.com)
-[![CISSP](https://img.shields.io/badge/CISSP-Certified-0D1B4B?style=for-the-badge)](#)
-[![SecurityX](https://img.shields.io/badge/CompTIA-SecurityX-E8A020?style=for-the-badge)](#)
+[![Visit Website](https://img.shields.io/badge/Visit-urcybersecurity.com-1A56DB?style=for-the-badge)](https://urcybersecurity.com)
+
+CISSP · CompTIA SecurityX
 
 </div>
 
