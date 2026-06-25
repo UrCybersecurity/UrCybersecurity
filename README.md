@@ -92,8 +92,4 @@ This is the kind of real-world scenario covered in every UrCybersecurity trainin
 
 **[urcybersecurity.com →](https://urcybersecurity.com)**
 
-<div align="center">
-
-📍 Raleigh-Durham Triangle, NC
-
 </div>
